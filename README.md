@@ -121,8 +121,25 @@ java RestApiClient.WeatherAPIClient
 ---
 
 ## 📷Output
+==============================================
+      WEATHER REST API CLIENT USING JAVA
+==============================================
 
+============= WEATHER REPORT =============
+Location             : Hyderabad
+Observation Time     : 2026-06-29T11:45
+Temperature          : 27.6 °C
+Wind Speed           : 8.2 km/h
+Wind Direction       : 256°
+Weather Code         : 95
+Condition            : Thunderstorm
+==========================================
 
+----------------------------------------------
+API Response Time : 1235 ms
+----------------------------------------------
+
+<img width="510" height="372" alt="Image" src="https://github.com/user-attachments/assets/65a34bc0-0bab-4c48-903a-dad175244951" />
 
 ---
 
