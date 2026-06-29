@@ -119,7 +119,24 @@ java RestApiClient.WeatherAPIClient
 ```
 
 ---
+## sample output 
+==============================================
+      WEATHER REST API CLIENT USING JAVA
+==============================================
 
+============= WEATHER REPORT =============
+
+Location             : Hyderabad
+Observation Time     : 2026-05-23T14:45
+Temperature          : 32.7 °C
+Wind Speed           : 10.6 km/h
+Wind Direction       : 256°
+Weather Code         : 2
+Condition            : Partly Cloudy
+
+==========================================
+
+API Response Time : 115 ms
 ## 📷Output
 
 <img width="510" height="372" alt="Image" src="https://github.com/user-attachments/assets/65a34bc0-0bab-4c48-903a-dad175244951" />
